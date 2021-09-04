@@ -1,0 +1,1967 @@
+
+/* Landing page */
+
+position: relative;
+width: 1440px;
+height: 3935px;
+
+background: #FFFFFF;
+
+
+/* Emergency Reporting just got way Cooler!!! */
+
+position: absolute;
+width: 687px;
+height: 144px;
+left: 120px;
+top: 179px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 150%;
+/* or 72px */
+
+color: #000000;
+
+
+
+/* It’s in emergency situation cases you realize how inportant emergency respose team could be, our systems especially as regards major emergency incidents use objective measures to direct resource to your emergency needs, health emergency are often very similar to the causes of an emergency threatening to life, which needs the urgent intervention of an emergency responce such as this App Gov Okowa has set up to keep you safe and healthy. */
+
+position: absolute;
+width: 584px;
+height: 216px;
+left: 120px;
+top: 363px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* Group 514 */
+
+position: absolute;
+width: 276px;
+height: 64px;
+left: 120px;
+top: 611px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 276px;
+height: 64px;
+left: 120px;
+top: 611px;
+
+background: #F84647;
+border-radius: 50px;
+
+
+/* Download App */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: 191px;
+top: 629px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+color: #FFFFFF;
+
+
+
+/* Group 516 */
+
+position: absolute;
+width: 687px;
+height: 526px;
+left: 120px;
+top: 1881px;
+
+
+
+/* Group 519 */
+
+position: absolute;
+width: 687px;
+height: 526px;
+left: 120px;
+top: 1881px;
+
+
+
+/* Group 510 */
+
+position: absolute;
+width: 276px;
+height: 64px;
+left: 120px;
+top: 2343px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 276px;
+height: 64px;
+left: 120px;
+top: 2343px;
+
+border: 1px solid #F84647;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Download App */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: 191px;
+top: 2362px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+color: #F84647;
+
+
+
+/* See Call Logs to frequently Called Emergency Services */
+
+position: absolute;
+width: 687px;
+height: 252px;
+left: 120px;
+top: 1881px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 150%;
+/* or 84px */
+
+color: #000000;
+
+
+
+/* Emergency action principles are key 'rules' that guide the actions of rescuers and potential rescuers. Because of the inherent nature of emergencies, no two incident are likely to be the same, so emergency action principles help to guide rescuers at incidents, by sticking to Emergency priciples of Assessment, Preparedness, Response, Recovery, Mitigation. */
+
+position: absolute;
+width: 584px;
+height: 162px;
+left: 120px;
+top: 2149px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* Group 15 */
+
+position: absolute;
+width: 687px;
+height: 688px;
+left: 633px;
+top: 2642px;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 687px;
+height: 688px;
+left: 633px;
+top: 2642px;
+
+
+
+/* Group 520 */
+
+position: absolute;
+width: 687px;
+height: 688px;
+left: 633px;
+top: 2642px;
+
+
+
+/* Group 511 */
+
+position: absolute;
+width: 276px;
+height: 64px;
+left: 633px;
+top: 3266px;
+
+
+
+/* Group 523 */
+
+position: absolute;
+width: 276px;
+height: 64px;
+left: 633px;
+top: 3266px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 276px;
+height: 64px;
+left: 633px;
+top: 3266px;
+
+border: 1px solid #F84647;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Download App */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: 704px;
+top: 3284px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+color: #F84647;
+
+
+
+/* Call the Nearest Emergency Service within your Area */
+
+position: absolute;
+width: 687px;
+height: 252px;
+left: 633px;
+top: 2642px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 150%;
+/* or 84px */
+
+color: #000000;
+
+
+
+/* The first stage of any classification is likely to define whether the incident qualifies as an emergency, and consequently if it warrants an emergency response. Some agencies may still respond to non-emergency calls, depending on their remit and availability of resource. An example of this would be a fire department responding to help retrieve a cat from a tree, where no life, health or property is immediately at risk. Following this, many agencies assign a sub-classification to the emergency, prioritising incidents that have the most potential for risk to life, health or property (in that order). For instance, many ambulance services use a system called the Advanced Medical Priority Dispatch System (AMPDS) or a similar solution. */
+
+position: absolute;
+width: 687px;
+height: 324px;
+left: 633px;
+top: 2910px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 1440px;
+height: 454px;
+left: 0px;
+top: 3481px;
+
+background: #F84647;
+
+
+/* Group 518 */
+
+position: absolute;
+width: 687px;
+height: 553px;
+left: 633px;
+top: 1141px;
+
+
+
+/* Group 510 */
+
+position: absolute;
+width: 276px;
+height: 64px;
+left: 633px;
+top: 1630px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 276px;
+height: 64px;
+left: 633px;
+top: 1630px;
+
+border: 1px solid #F84647;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Download App */
+
+position: absolute;
+width: 134px;
+height: 27px;
+left: 704px;
+top: 1649px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+color: #F84647;
+
+
+
+/* Report Emergency to Specific Agency by just a Tap */
+
+position: absolute;
+width: 687px;
+height: 252px;
+left: 633px;
+top: 1141px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 150%;
+/* or 84px */
+
+color: #000000;
+
+
+
+/* An emergency is a situation that poses an immediate risk to health, life, property, or the environment. Most emergencies require urgent intervention to prevent a worsening of the situation, although in some situations, mitigation may not be possible and agencies may only be able to offer palliative care for the aftermath but on the contrary this Emergency App could make a diffrence */
+
+position: absolute;
+width: 584px;
+height: 189px;
+left: 633px;
+top: 1409px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* Emergency is just a tap away */
+
+position: absolute;
+width: 994px;
+height: 77px;
+left: 223px;
+top: 3513px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 56px;
+line-height: 150%;
+/* or 84px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* With just a click of the CTA button on our App In the event of a major incident, such as civil unrest, armed robbry or a major accident / disaster, delta state government has set up such an efficient responce team through our Emergency platform. */
+
+position: absolute;
+width: 793px;
+height: 144px;
+left: 323px;
+top: 3622px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 512 */
+
+position: absolute;
+width: 276px;
+height: 64px;
+left: 582px;
+top: 3798px;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 276px;
+height: 64px;
+left: 582px;
+top: 3798px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+
+/* Download App */
+
+position: absolute;
+width: 128px;
+height: 27px;
+left: 653px;
+top: 3816px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+color: #000000;
+
+
+
+/* Rectangle 32 */
+
+position: absolute;
+width: 481px;
+height: 600px;
+left: 120px;
+top: 1121px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 33 */
+
+position: absolute;
+width: 481px;
+height: 600px;
+left: 839px;
+top: 1881px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 481px;
+height: 600px;
+left: 120px;
+top: 2641px;
+
+background: #C4C4C4;
+
+
+/* Group 522 */
+
+position: absolute;
+width: 481px;
+height: 600px;
+left: 120px;
+top: 2642px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 256.88px;
+height: 32.1px;
+left: 125px;
+top: 3209.9px;
+
+background: rgba(0, 0, 0, 0.32);
+filter: blur(71.223px);
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 220px;
+height: 27.49px;
+left: 370px;
+top: 3212.77px;
+
+background: rgba(0, 0, 0, 0.32);
+filter: blur(60.9969px);
+
+
+/* Big iphone */
+
+position: absolute;
+width: 232.22px;
+height: 454.06px;
+left: 120px;
+top: 2701.17px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Colors */
+
+position: absolute;
+width: 232.22px;
+height: 454.06px;
+left: 120px;
+top: 2701.17px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* SILVER */
+
+position: absolute;
+visibility: hidden;
+width: 232.22px;
+height: 454.06px;
+left: 120px;
+top: 2701.17px;
+
+background: #ADAFA4;
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* GRAPHITE */
+
+position: absolute;
+visibility: hidden;
+width: 232.22px;
+height: 454.06px;
+left: 120px;
+top: 2701.17px;
+
+background: #353432;
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* GOLD */
+
+position: absolute;
+visibility: hidden;
+width: 232.22px;
+height: 454.06px;
+left: 120px;
+top: 2701.17px;
+
+background: #7A602C;
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* PACIFIC BLUE */
+
+position: absolute;
+width: 232.22px;
+height: 454.06px;
+left: 120px;
+top: 2701.17px;
+
+background: #0F657A;
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* shadows */
+
+position: absolute;
+width: 232.22px;
+height: 454.06px;
+left: 120px;
+top: 2701.17px;
+
+mix-blend-mode: multiply;
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Group 11 */
+
+position: absolute;
+width: 229.28px;
+height: 454.06px;
+left: 121.42px;
+top: 2700.8px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 229.28px;
+height: 454.06px;
+left: 121.42px;
+top: 2700.8px;
+
+background: #000000;
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 229.28px;
+height: 454.06px;
+left: 121.42px;
+top: 2700.8px;
+
+background: #EBEBEB;
+box-shadow: inset 0px 0px 15.5541px rgba(0, 0, 0, 0.32);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 232.22px;
+height: 456.6px;
+left: 119.62px;
+top: 2699.81px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 4.99px;
+height: 3.95px;
+left: 133.41px;
+top: 2749.02px;
+
+background: linear-gradient(90deg, #D1D1D1 10.94%, #E3E3E3 31.77%, #D2D2D2 55.21%, #E6E6E6 80.73%);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 4.99px;
+height: 3.95px;
+left: 228.06px;
+top: 3086.72px;
+
+background: linear-gradient(90deg, #D1D1D1 10.94%, #E3E3E3 31.77%, #D2D2D2 55.21%, #E6E6E6 80.73%);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 4.99px;
+height: 3.95px;
+left: 353.53px;
+top: 2692.63px;
+
+background: linear-gradient(90deg, #E6E6E6 9.88%, #D2D2D2 36.88%, #E3E3E3 62.45%, #D1D1D1 79.86%);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 4.99px;
+height: 3.95px;
+left: 448.18px;
+top: 3030.33px;
+
+background: linear-gradient(90deg, #E6E6E6 9.88%, #D2D2D2 36.88%, #E3E3E3 62.45%, #D1D1D1 79.86%);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 4.8px;
+height: 4.11px;
+left: 293.1px;
+top: 2655.37px;
+
+background: linear-gradient(90deg, #D1D1D1 23.83%, #E3E3E3 41.67%, #D2D2D2 70.02%, #E6E6E6 92.64%);
+transform: matrix(0.27, 0.96, -0.97, 0.25, 0, 0);
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 4.8px;
+height: 4.11px;
+left: 297px;
+top: 3120.64px;
+
+background: linear-gradient(90deg, #E6E6E6 9.88%, #D2D2D2 36.88%, #E3E3E3 62.45%, #D1D1D1 79.86%);
+transform: matrix(0.27, 0.96, -0.97, 0.25, 0, 0);
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 224.59px;
+height: 449.54px;
+left: 124.31px;
+top: 2702.39px;
+
+background: #000000;
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Group 3 */
+
+position: absolute;
+width: 232.22px;
+height: 99.96px;
+left: 143.39px;
+top: 2784.64px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 1.47px;
+height: 16.38px;
+left: 143.4px;
+top: 2784.64px;
+
+background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(208, 208, 208, 0.42) 33.33%, rgba(0, 0, 0, 0.24) 100%);
+box-shadow: inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.64), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.64);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 1.47px;
+height: 31.63px;
+left: 151.4px;
+top: 2813.19px;
+
+background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(208, 208, 208, 0.42) 33.33%, rgba(0, 0, 0, 0.24) 100%);
+box-shadow: inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.64), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.64);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 1.47px;
+height: 49.13px;
+left: 377.75px;
+top: 2765.99px;
+
+background: linear-gradient(90deg, rgba(0, 0, 0, 0.24) 0%, rgba(208, 208, 208, 0.42) 57.38%, rgba(0, 0, 0, 0) 100%);
+box-shadow: inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.64), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.64);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 1.47px;
+height: 31.63px;
+left: 161.84px;
+top: 2850.44px;
+
+background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(208, 208, 208, 0.42) 33.33%, rgba(0, 0, 0, 0.24) 100%);
+box-shadow: inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.64), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.64);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* highlights */
+
+position: absolute;
+width: 232.22px;
+height: 454.06px;
+left: 120px;
+top: 2701.17px;
+
+mix-blend-mode: screen;
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Group 11 */
+
+position: absolute;
+width: 229.28px;
+height: 454.06px;
+left: 121.42px;
+top: 2700.8px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 229.28px;
+height: 454.06px;
+left: 121.42px;
+top: 2700.8px;
+
+background: #000000;
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 229.28px;
+height: 454.06px;
+left: 121.42px;
+top: 2700.8px;
+
+background: #050505;
+box-shadow: inset 0px 0px 4.86067px #000000, inset 0px 0px 9.72134px rgba(255, 255, 255, 0.88);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 232.22px;
+height: 456.6px;
+left: 119.62px;
+top: 2699.81px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 4.99px;
+height: 3.95px;
+left: 133.41px;
+top: 2749.02px;
+
+background: linear-gradient(90deg, #8F8F8F 30.16%, #525252 48.95%, #141414 82.77%);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 4.99px;
+height: 3.95px;
+left: 228.06px;
+top: 3086.72px;
+
+background: linear-gradient(90deg, #8F8F8F 28.57%, #525252 47.68%, #141414 82.77%);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 4.99px;
+height: 3.95px;
+left: 353.53px;
+top: 2692.63px;
+
+background: linear-gradient(90deg, #141414 8.82%, #525252 51.43%, #8F8F8F 71.41%);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 4.99px;
+height: 3.95px;
+left: 448.18px;
+top: 3030.33px;
+
+background: linear-gradient(90deg, #141414 8.82%, #525252 51.43%, #8F8F8F 71.41%);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 4.8px;
+height: 4.11px;
+left: 293.1px;
+top: 2655.37px;
+
+background: linear-gradient(90deg, #8F8F8F 29.88%, #525252 48.15%, #141414 97.63%);
+transform: matrix(0.27, 0.96, -0.97, 0.25, 0, 0);
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 4.8px;
+height: 4.11px;
+left: 297px;
+top: 3120.64px;
+
+background: linear-gradient(90deg, #000000 12.29%, #292929 58.46%, #7A7A7A 87.59%);
+transform: matrix(0.27, 0.96, -0.97, 0.25, 0, 0);
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 224.59px;
+height: 449.54px;
+left: 124.31px;
+top: 2702.39px;
+
+background: #000000;
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Group 3 */
+
+position: absolute;
+width: 232.22px;
+height: 99.96px;
+left: 143.39px;
+top: 2784.64px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 1.47px;
+height: 16.38px;
+left: 143.4px;
+top: 2784.64px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.24) 27.6%, rgba(255, 255, 255, 0) 100%);
+box-shadow: inset 0px -0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px 0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.08), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.08);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 1.47px;
+height: 31.63px;
+left: 151.4px;
+top: 2813.19px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.24) 27.6%, rgba(255, 255, 255, 0) 100%);
+box-shadow: inset 0px -0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px 0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.08), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.08);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 1.47px;
+height: 49.13px;
+left: 377.75px;
+top: 2765.99px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.24) 63.02%, rgba(255, 255, 255, 0.08) 100%);
+box-shadow: inset 0px -0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px 0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.08), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.08);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 1.47px;
+height: 31.63px;
+left: 161.84px;
+top: 2850.44px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.24) 27.6%, rgba(255, 255, 255, 0) 100%);
+box-shadow: inset 0px -0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px 0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.08), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.08);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Screen */
+
+position: absolute;
+width: 208.44px;
+height: 433.45px;
+left: 134.4px;
+top: 2707.97px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Subtract */
+
+position: absolute;
+width: 208.44px;
+height: 433.45px;
+left: 134.4px;
+top: 2707.97px;
+
+background: #161616;
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* iphone-12-pro-max--screen */
+
+position: absolute;
+width: 208.73px;
+height: 434.01px;
+left: 134.33px;
+top: 2707.7px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Place Image here */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 11.94%;
+bottom: -11.94%;
+
+background: url(Emergency Services (3).png);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Camera */
+
+position: absolute;
+width: 35.82px;
+height: 7.91px;
+left: 224.65px;
+top: 2686.31px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 22.9px;
+height: 3.95px;
+left: 225.19px;
+top: 2688.21px;
+
+background: #161616;
+box-shadow: inset 0px 0px 7.77707px rgba(0, 0, 0, 0.48);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 22.9px;
+height: 3.95px;
+left: 225.19px;
+top: 2688.21px;
+
+border: 1.94427px solid rgba(0, 0, 0, 0.32);
+box-sizing: border-box;
+filter: blur(0.972134px);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 22.9px;
+height: 3.95px;
+left: 225.19px;
+top: 2688.21px;
+
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 8.22px;
+height: 7.91px;
+left: 251.39px;
+top: 2679.46px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.25) 46.35%, rgba(0, 0, 0, 0) 64.58%), radial-gradient(39.29% 39.29% at 58.93% 73.21%, #242424 0%, #161616 100%);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 4.11px;
+height: 3.95px;
+left: 253.91px;
+top: 2680.85px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0) 82.81%, rgba(0, 0, 0, 0.85) 100%), radial-gradient(17.86% 17.86% at 64.29% 39.29%, #6356D7 0%, rgba(21, 54, 138, 0) 100%), radial-gradient(35.71% 35.71% at 57.14% 57.14%, #070D17 14.68%, rgba(7, 13, 23, 0) 100%), radial-gradient(46.43% 46.43% at 10.71% 39.29%, #070D17 0%, rgba(7, 13, 23, 0) 100%), linear-gradient(180deg, #0B528D 0%, #3625AF 27.6%, #070D17 51.04%, #16618F 73.44%, #021762 100%);
+transform: matrix(0.96, -0.25, 0.27, 0.97, 0, 0);
+
+
+/* Big iphone */
+
+position: absolute;
+width: 255.6px;
+height: 496.78px;
+left: 345.4px;
+top: 2642px;
+
+
+
+/* Colors */
+
+position: absolute;
+width: 255.6px;
+height: 496.78px;
+left: 345.4px;
+top: 2642px;
+
+
+
+/* SILVER */
+
+position: absolute;
+visibility: hidden;
+width: 255.6px;
+height: 496.78px;
+left: 345.4px;
+top: 2642px;
+
+background: #ADAFA4;
+
+
+/* GRAPHITE */
+
+position: absolute;
+visibility: hidden;
+width: 255.6px;
+height: 496.78px;
+left: 345.4px;
+top: 2642px;
+
+background: #353432;
+
+
+/* GOLD */
+
+position: absolute;
+visibility: hidden;
+width: 255.6px;
+height: 496.78px;
+left: 345.4px;
+top: 2642px;
+
+background: #7A602C;
+
+
+/* PACIFIC BLUE */
+
+position: absolute;
+width: 255.6px;
+height: 496.78px;
+left: 345.4px;
+top: 2642px;
+
+background: #0F657A;
+
+
+/* shadows */
+
+position: absolute;
+width: 255.6px;
+height: 496.78px;
+left: 345.4px;
+top: 2642px;
+
+mix-blend-mode: multiply;
+
+
+/* Group 11 */
+
+position: absolute;
+width: 252.37px;
+height: 496.78px;
+left: 347.01px;
+top: 2642px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 252.37px;
+height: 496.78px;
+left: 347.01px;
+top: 2642px;
+
+background: #000000;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 252.37px;
+height: 496.78px;
+left: 347.01px;
+top: 2642px;
+
+background: #EBEBEB;
+box-shadow: inset 0px 0px 15.5541px rgba(0, 0, 0, 0.32);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 255.6px;
+height: 499.56px;
+left: 345.4px;
+top: 2640.46px;
+
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 5.49px;
+height: 4.33px;
+left: 345.4px;
+top: 2696.37px;
+
+background: linear-gradient(90deg, #D1D1D1 10.94%, #E3E3E3 31.77%, #D2D2D2 55.21%, #E6E6E6 80.73%);
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 5.49px;
+height: 4.33px;
+left: 345.4px;
+top: 3080.08px;
+
+background: linear-gradient(90deg, #D1D1D1 10.94%, #E3E3E3 31.77%, #D2D2D2 55.21%, #E6E6E6 80.73%);
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 5.49px;
+height: 4.33px;
+left: 595.51px;
+top: 2696.37px;
+
+background: linear-gradient(90deg, #E6E6E6 9.88%, #D2D2D2 36.88%, #E3E3E3 62.45%, #D1D1D1 79.86%);
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 5.49px;
+height: 4.33px;
+left: 595.51px;
+top: 3080.08px;
+
+background: linear-gradient(90deg, #E6E6E6 9.88%, #D2D2D2 36.88%, #E3E3E3 62.45%, #D1D1D1 79.86%);
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 5.25px;
+height: 4.52px;
+left: 542.51px;
+top: 2640.46px;
+
+background: linear-gradient(90deg, #D1D1D1 23.83%, #E3E3E3 41.67%, #D2D2D2 70.02%, #E6E6E6 92.64%);
+transform: rotate(90deg);
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 5.25px;
+height: 4.52px;
+left: 408.41px;
+top: 3134.76px;
+
+background: linear-gradient(90deg, #E6E6E6 9.88%, #D2D2D2 36.88%, #E3E3E3 62.45%, #D1D1D1 79.86%);
+transform: rotate(90deg);
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 247.2px;
+height: 491.83px;
+left: 349.6px;
+top: 2644.47px;
+
+background: #000000;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 255.6px;
+height: 109.36px;
+left: 345.4px;
+top: 2736.84px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 1.62px;
+height: 17.92px;
+left: 345.4px;
+top: 2736.84px;
+
+background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(208, 208, 208, 0.42) 33.33%, rgba(0, 0, 0, 0.24) 100%);
+box-shadow: inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.64), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.64);
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 1.62px;
+height: 34.6px;
+left: 345.4px;
+top: 2769.28px;
+
+background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(208, 208, 208, 0.42) 33.33%, rgba(0, 0, 0, 0.24) 100%);
+box-shadow: inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.64), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.64);
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 1.62px;
+height: 53.76px;
+left: 599.38px;
+top: 2780.71px;
+
+background: linear-gradient(90deg, rgba(0, 0, 0, 0.24) 0%, rgba(208, 208, 208, 0.42) 57.38%, rgba(0, 0, 0, 0) 100%);
+box-shadow: inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.64), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.64);
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 1.62px;
+height: 34.6px;
+left: 345.4px;
+top: 2811.61px;
+
+background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(208, 208, 208, 0.42) 33.33%, rgba(0, 0, 0, 0.24) 100%);
+box-shadow: inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.64), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.64);
+
+
+/* highlights */
+
+position: absolute;
+width: 255.6px;
+height: 496.78px;
+left: 345.4px;
+top: 2642px;
+
+mix-blend-mode: screen;
+
+
+/* Group 11 */
+
+position: absolute;
+width: 252.37px;
+height: 496.78px;
+left: 347.01px;
+top: 2642px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 252.37px;
+height: 496.78px;
+left: 347.01px;
+top: 2642px;
+
+background: #000000;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 252.37px;
+height: 496.78px;
+left: 347.01px;
+top: 2642px;
+
+background: #050505;
+box-shadow: inset 0px 0px 4.86067px #000000, inset 0px 0px 9.72134px rgba(255, 255, 255, 0.88);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 255.6px;
+height: 499.56px;
+left: 345.4px;
+top: 2640.46px;
+
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 5.49px;
+height: 4.33px;
+left: 345.4px;
+top: 2696.37px;
+
+background: linear-gradient(90deg, #8F8F8F 30.16%, #525252 48.95%, #141414 82.77%);
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 5.49px;
+height: 4.33px;
+left: 345.4px;
+top: 3080.08px;
+
+background: linear-gradient(90deg, #8F8F8F 28.57%, #525252 47.68%, #141414 82.77%);
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 5.49px;
+height: 4.33px;
+left: 595.51px;
+top: 2696.37px;
+
+background: linear-gradient(90deg, #141414 8.82%, #525252 51.43%, #8F8F8F 71.41%);
+
+
+/* Rectangle 26 */
+
+position: absolute;
+width: 5.49px;
+height: 4.33px;
+left: 595.51px;
+top: 3080.08px;
+
+background: linear-gradient(90deg, #141414 8.82%, #525252 51.43%, #8F8F8F 71.41%);
+
+
+/* Rectangle 27 */
+
+position: absolute;
+width: 5.25px;
+height: 4.52px;
+left: 542.51px;
+top: 2640.46px;
+
+background: linear-gradient(90deg, #8F8F8F 29.88%, #525252 48.15%, #141414 97.63%);
+transform: rotate(90deg);
+
+
+/* Rectangle 28 */
+
+position: absolute;
+width: 5.25px;
+height: 4.52px;
+left: 408.41px;
+top: 3134.76px;
+
+background: linear-gradient(90deg, #000000 12.29%, #292929 58.46%, #7A7A7A 87.59%);
+transform: rotate(90deg);
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 247.2px;
+height: 491.83px;
+left: 349.6px;
+top: 2644.47px;
+
+background: #000000;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 255.6px;
+height: 109.36px;
+left: 345.4px;
+top: 2736.84px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 1.62px;
+height: 17.92px;
+left: 345.4px;
+top: 2736.84px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.24) 27.6%, rgba(255, 255, 255, 0) 100%);
+box-shadow: inset 0px -0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px 0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.08), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.08);
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 1.62px;
+height: 34.6px;
+left: 345.4px;
+top: 2769.28px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.24) 27.6%, rgba(255, 255, 255, 0) 100%);
+box-shadow: inset 0px -0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px 0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.08), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.08);
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 1.62px;
+height: 53.76px;
+left: 599.38px;
+top: 2780.71px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.24) 63.02%, rgba(255, 255, 255, 0.08) 100%);
+box-shadow: inset 0px -0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px 0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.08), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.08);
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 1.62px;
+height: 34.6px;
+left: 345.4px;
+top: 2811.61px;
+
+background: linear-gradient(90deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.24) 27.6%, rgba(255, 255, 255, 0) 100%);
+box-shadow: inset 0px -0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px 0.972134px 0.972134px rgba(255, 255, 255, 0.32), inset 0px -3.88854px 1.94427px rgba(255, 255, 255, 0.08), inset 0px 3.88854px 1.94427px rgba(255, 255, 255, 0.08);
+
+
+/* Screen */
+
+position: absolute;
+width: 229.43px;
+height: 474.22px;
+left: 358.65px;
+top: 2653.12px;
+
+
+
+/* Subtract */
+
+position: absolute;
+width: 229.43px;
+height: 474.22px;
+left: 358.65px;
+top: 2653.12px;
+
+background: #161616;
+
+
+/* iphone-12-pro-max--screen */
+
+position: absolute;
+width: 229.75px;
+height: 474.84px;
+left: 358.65px;
+top: 2652.81px;
+
+
+
+/* Place Image here */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(Emergency Services (2).png);
+
+
+/* Camera */
+
+position: absolute;
+width: 39.42px;
+height: 8.65px;
+left: 460.76px;
+top: 2654.67px;
+
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 25.2px;
+height: 4.33px;
+left: 460.76px;
+top: 2656.83px;
+
+background: #161616;
+box-shadow: inset 0px 0px 7.77707px rgba(0, 0, 0, 0.48);
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 25.2px;
+height: 4.33px;
+left: 460.76px;
+top: 2656.83px;
+
+border: 1.94427px solid rgba(0, 0, 0, 0.32);
+box-sizing: border-box;
+filter: blur(0.972134px);
+
+
+/* Rectangle 21 */
+
+position: absolute;
+width: 25.2px;
+height: 4.33px;
+left: 460.76px;
+top: 2656.83px;
+
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 9.05px;
+height: 8.65px;
+left: 491.13px;
+top: 2654.67px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.25) 46.35%, rgba(0, 0, 0, 0) 64.58%), radial-gradient(39.29% 39.29% at 58.93% 73.21%, #242424 0%, #161616 100%);
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 4.52px;
+height: 4.33px;
+left: 493.4px;
+top: 2656.83px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0) 82.81%, rgba(0, 0, 0, 0.85) 100%), radial-gradient(17.86% 17.86% at 64.29% 39.29%, #6356D7 0%, rgba(21, 54, 138, 0) 100%), radial-gradient(35.71% 35.71% at 57.14% 57.14%, #070D17 14.68%, rgba(7, 13, 23, 0) 100%), radial-gradient(46.43% 46.43% at 10.71% 39.29%, #070D17 0%, rgba(7, 13, 23, 0) 100%), linear-gradient(180deg, #0B528D 0%, #3625AF 27.6%, #070D17 51.04%, #16618F 73.44%, #021762 100%);
+
+
+/* Double Iphones (2) 1 */
+
+position: absolute;
+width: 560px;
+height: 741px;
+left: 760px;
+top: 241px;
+
+background: url(Double Iphones (2).png);
+
+
+/* Group 503 */
+
+position: absolute;
+width: 1440px;
+height: 120px;
+left: 0px;
+top: 0px;
+
+
+
+/* Navbar */
+
+position: absolute;
+width: 1440px;
+height: 120px;
+left: 0px;
+top: 0px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 120px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 6px 16px rgba(0, 0, 0, 0.08);
+
+
+/* Group 501 */
+
+position: absolute;
+width: 657px;
+height: 56px;
+left: 663px;
+top: 32px;
+
+
+
+/* Group 500 */
+
+position: absolute;
+width: 173px;
+height: 56px;
+left: 1147px;
+top: 32px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 173px;
+height: 56px;
+left: 1147px;
+top: 32px;
+
+border: 2px solid #F84647;
+box-sizing: border-box;
+border-radius: 50px;
+
+
+/* Download App */
+
+position: absolute;
+width: 113px;
+height: 24px;
+left: 1177px;
+top: 48px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: center;
+
+color: #F84647;
+
+
+
+/* HOME */
+
+position: absolute;
+width: 49px;
+height: 22px;
+left: 663px;
+top: 49px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* SERVICES */
+
+position: absolute;
+width: 89px;
+height: 24px;
+left: 760px;
+top: 48px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: center;
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* ABOUT */
+
+position: absolute;
+width: 55px;
+height: 22px;
+left: 897px;
+top: 49px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* CONTACT US */
+
+position: absolute;
+width: 99px;
+height: 24px;
+left: 1000px;
+top: 48px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: center;
+
+color: #000000;
+
+opacity: 0.6;
+
+
+/* Group 517 */
+
+position: absolute;
+width: 178px;
+height: 21.86px;
+left: 120px;
+top: 43.71px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 8.33%;
+right: 90%;
+top: 1.11%;
+bottom: 98.33%;
+
+background: #F84647;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 8.89%;
+right: 90.56%;
+top: 1.11%;
+bottom: 98.33%;
+
+background: #C4C4C4;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 8.33%;
+right: 91.16%;
+top: 1.48%;
+bottom: 97.91%;
+
+background: #C4C4C4;
+transform: rotate(-90deg);
+
+
+/* Report Emergency */
+
+position: absolute;
+left: 10.83%;
+right: 79.31%;
+top: 1.11%;
+bottom: 98.33%;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+color: #F84647;
+

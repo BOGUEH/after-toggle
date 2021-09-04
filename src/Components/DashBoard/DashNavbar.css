@@ -1,0 +1,17 @@
+
+
+.navbarAll{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 2px 10px 4px rgb(231, 229, 227);
+
+}
+ .col-3  .col-9 {
+    display: inline;
+   
+  }
+
+  .float-right{
+      position: absolute;
+      right:0px;
+  }

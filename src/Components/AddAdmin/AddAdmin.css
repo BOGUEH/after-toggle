@@ -1,0 +1,46 @@
+
+.container{ 
+    height: 100vh !important;
+    width: 100vh !important; 
+
+}
+
+.forms{
+
+    padding: 20px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    border-color: rgb(180, 175, 175);
+    border-radius: 10px;
+    border-width: 2px;
+    margin: 10px;
+
+   
+
+}
+
+
+
+button{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: #F84647;
+    border-color: #F84647;
+    color: white;
+    font-size: 20px;
+}
+
+
+p{
+    color: gray;
+}
+
+
+.contactbtn{
+    background-color: white;
+    color: #F84647;
+}
+.small{
+    font-size: 10px;
+}
