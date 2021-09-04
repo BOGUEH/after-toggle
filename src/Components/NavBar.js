@@ -10,30 +10,37 @@ export default function NavBar() {
                     <div className="container-fluid">
                     <nav id="navbar-example"class="navbar navbar-expand-lg navbar-light bg-light">
                         <div class="container-fluid">
+                      
                         <a class="navbar-brand" href="home">
-                            <img src="../images/emergency-reporting-logo.svg" alt="logo" />
+                          
+
+
+                            <img className="report-logo" src="../images/emergency-reporting-logo.svg" alt="logo" />
                          </a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                         </button>
-                            <div className="float-left">   
-                        <div class="collapse navbar-collapse" id="navbarToggleExternalContent" >
-                                <ul class="navbar-nav">
-                                
-                                <li class="nav-item">
-                                <a class="nav-link" href="#home">HOME</a> 
-                                </li>
-                                <li class="nav-item">
-                                <a class="nav-link" href="#features">FEATURES</a>
-                                </li>
-                                <li class="nav-item">
-                                <a class="nav-link" href="#FAQs">FAQS</a> 
-                                </li>
-                                <li class="nav-item">
-                                <a class="nav-link" id="download1"href="#download">Download App</a> 
-                                </li>
-                                </ul>
-                            </div>
+                        <div className="float-left">   
+                            <div class="collapse navbar-collapse" id="navbarToggleExternalContent" >
+
+                                    <ul class="navbar-nav">
+                                    
+                                        <li class="nav-item">
+                                        <a class="nav-link" href="#home">HOME</a> 
+                                        </li>
+                                        <li class="nav-item">
+                                        <a class="nav-link" href="#features">FEATURES</a>
+                                        </li>
+                                        <li class="nav-item">
+                                        <a class="nav-link" href="#FAQs">FAQS</a> 
+                                        </li>
+                                        <li class="nav-item">
+                                        <a class="nav-link" id="download1"href="#download">Download App</a> 
+                                        </li>
+                                    </ul>
+
+                                </div>
+
 
                             
                             </div> 

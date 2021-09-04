@@ -2,24 +2,26 @@ import React from 'react'
 
 export default function Home() {
     return (
-       <div data-spy="scroll" data-target="#navbar-example" data-offset="0">
+       <div data-spy="scroll" data-target="#navbar-example" data-offset="0" className="whole-body">
               
                <div className="container-fluid">
                <section>
+                   
                     <div id="home" class="row justify-content-center d-flex flex-wrap">
-                        <div class="col-sm-6 " > 
 
+                        <div class="col-sm-6 first-content-text" > 
+
+                       
+                                
                             <div className="row d-flex">
                                    
-                                 <h1 className="text-center">Amazing App for Reporting Emergency</h1>
-                                 <p> Faced with an emergency situation, whether fire, health wise
+                                 <h1> Amazing App for Reporting Emergency</h1>
+                                 <p className="first-paragraph"> Faced with an emergency situation, whether fire, health wise
                                     or in an armed robbery case, report emergency 
                                     app got you covered</p>
                                     
-                                    
                             </div>
                             <button id="download-btn"> Download App</button> 
-                       
                         </div>
 
 
@@ -35,7 +37,7 @@ export default function Home() {
                     <div id="features" class="d-flex flex-column">
                         
                         <div className="d-flex align-items-center justify-content-center"  > 
-                            <div className="col align-self-start">
+                            <div className="col align-self-start second-paragraph">
                                 <h1 className="text-center"> Alert a Family Member when in Distress</h1>
                                 <p className="text-center">This feature enables you to register the details of a Close
                                      Relative in case of an emergency.
@@ -63,59 +65,60 @@ export default function Home() {
                         
 
                         
-                                <div className="row d-flex">
+                            <div className="row d-flex">
 
-                                    <div className="col-sm-6 ">                                    
-                                    
-                                        </div>
-                                    <div className="col-sm-6 inline"> 
-                                    <img src="./images/bullet.svg" alt="" />
-                                    
-                                    <h1>  Easy Access to Call History</h1>
-                                        <p> With the call log services, just like your
-                                            phone call log, you will have access to 
-                                        previous emergency calls that you have made
-                                            at a glance and at ease. 
-                                        </p>
-                                    </div>
-
+                                <div className="col-sm-6 ">
 
                                 </div>
-                       
-                                <div className="row d-flex">
+                                <div className="col-sm-6 inline">
+                                    <img src="./images/bullet.svg" alt="" />
 
-                                    <div className="col-sm-6 inline">                                    
-                                    
-                                    <img src="./images/bullet.svg" alt="" /><h1> Get the closest help within your Local Goverment Area</h1>
+                                    <h1>  Easy Access to Call History</h1>
+                                    <p> With the call log services, just like your
+                                        phone call log, you will have access to
+                                        previous emergency calls that you have made
+                                        at a glance and at ease.
+                                    </p>
+                                </div>
+
+
+                            </div>
+
+                            <div className="row d-flex">
+
+                                <div className="col-sm-6 inline">
+
+                                    <img src="./images/bullet.svg" alt="" />
+                                    <h1> Get the closest help within your Local Goverment Area</h1>
                                     <p> Emergency service agencies
                                         can be narrowed down based on one’s location.
-                                    </p> 
-
-                                        </div>
-                                    <div className="col-sm-6"> 
-                                    
-                                    </div>
-
+                                    </p>
 
                                 </div>
-                       
+                                <div className="col-sm-6">
 
-                                    <div className="row d-flex">
+                                </div>
 
-                                    <div className="col-sm-6"> </div>
-                                    <div className="col-sm-6 inline"> 
+
+                            </div>
+
+
+                            <div className="row d-flex">
+
+                                <div className="col-sm-6"> </div>
+                                <div className="col-sm-6 inline">
                                     <img src="./images/bullet.svg" alt="" /><h1>  Simple and Easy to use Interface</h1>
-                                        <p> Navigation is made easy 
-                                            through a well thought out 
-                                            User experience for overall
-                                            efficiency.
-                                        </p>
-                                    </div>
-                                
-
+                                    <p> Navigation is made easy
+                                        through a well thought out
+                                        User experience for overall
+                                        efficiency.
+                                    </p>
                                 </div>
-                        
-                               
+
+
+                            </div>
+
+
                          
                                
                         </div>  {/*the end of the usability  */}

@@ -11,6 +11,11 @@ background: #FFFFFF;
 
 }
 
+.second-paragraph{
+  
+    padding-right: 10%;
+    padding-left: 10%;
+}
 
 .testimony{
     background-color: #FFF6F6;
@@ -18,11 +23,14 @@ background: #FFFFFF;
 }
 
 section{
-    padding-top: 70px;
+    padding-top: 3%;
     padding-bottom: 50px;
 }
 #features{
     background-color: #FFF6F6;
+    padding-top: 10%;
+    padding-right: 10%;
+    padding-left: 10%;
 }
 
 .img-download-btn{
@@ -81,7 +89,8 @@ img.social-logo1{
        border-style: solid;
        border-color: #FF6E6F;
         padding: 10px 20px;
-        border-radius: 20px;
+        border-radius: 50px;
+     
 }
 
 .footLogo{
@@ -92,8 +101,27 @@ img.social-logo1{
 }
 
 .nav-link:hover{
-    color: black;
+    color: black !important;
 }
 .nav-link:active{
     color: rgb(197, 189, 196);
+}
+
+li{
+    padding: 10px 30px;
+   
+}
+#home{
+    padding: 1% 5%;
+}
+
+.first-content-text{
+    padding: 10% !important;
+}
+
+.usability{
+    padding: 20px 8%;
+}
+.first-paragraph{
+    padding: 10px;
 }
